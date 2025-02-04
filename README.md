@@ -1,0 +1,2 @@
+# thinking
+repositorio para treinar
