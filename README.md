@@ -1,2 +1,3 @@
 # thinking
+
 repositorio para treinar
